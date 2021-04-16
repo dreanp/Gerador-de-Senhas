@@ -21,7 +21,7 @@ export default function App(){
 
   function copiarSenha(){
     Clipboard.setString(password);
-    alert('Senha copiada com sucesso') 
+    alert('Senha copiada com sucesso!') 
   }
 
   return(
