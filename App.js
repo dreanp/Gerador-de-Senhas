@@ -30,7 +30,7 @@ export default function App(){
       source={require('./src/assets/logo.png')}  
       style={styles.logo}     
     />
-      <Text style={styles.title}>{size} Caracteres</Text> 
+      <Text style={styles.title}>{size} Caracteres </Text> 
       
       <View style={styles.area}>
         <Slider
